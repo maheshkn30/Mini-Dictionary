@@ -10,4 +10,4 @@ https://maheshkn30.github.io/Mini-Dictionary
 
 - Allows users to input a word and view its meaning along with additional details.
 - Lightweight, fast, and easy to integrate into other web projects.
-- Revised Js Ajax concept making Http Request from client to server
+- Revised Js Ajax concept making Http Request from client to server.
